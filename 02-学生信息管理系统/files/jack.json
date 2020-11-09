@@ -1,0 +1,19 @@
+{
+  "all_student": [
+    {
+      "s_id": "stu0001",
+      "name": "lin",
+      "age": "21",
+      "gender": "meal",
+      "tel": "182666666"
+    },
+    {
+      "s_id": "stu0002",
+      "name": "yue",
+      "age": "22",
+      "gender": "female",
+      "tel": "15266666"
+    }
+  ],
+  "num": 2
+}
